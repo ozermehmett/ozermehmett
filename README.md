@@ -12,3 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ozermehmett&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ozermehmett&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+[![](https://visitcount.itsvg.in/api?id=ozermehmett&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+
