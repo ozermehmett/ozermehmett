@@ -21,7 +21,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ozermehmett&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ozermehmett&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# Thanks for Visiting my GitHub Profile!
+
+![c](https://github.com/ozermehmett/ozermehmett/assets/115498182/0b4c20c6-8889-4ae1-8700-99401219f2bb)
+
+
 
 [![](https://visitcount.itsvg.in/api?id=ozermehmett&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
 
