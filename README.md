@@ -15,10 +15,13 @@
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
 
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ozermehmett&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ozermehmett&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ozermehmett&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
 
 # Thanks for Visiting my GitHub Profile!
 ---
