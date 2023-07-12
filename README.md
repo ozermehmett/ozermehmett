@@ -26,8 +26,9 @@
 
 # Thanks for Visiting my GitHub Profile!
 ---
+![snake](https://github.com/ozermehmett/ozermehmett/assets/115498182/487a5089-d6de-48a8-bec1-a350cb03f399)
 <p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=ozermehmett&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
