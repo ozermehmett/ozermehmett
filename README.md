@@ -16,10 +16,12 @@
 
 
 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ozermehmett&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ozermehmett&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ozermehmett&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Mehmet github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ozermehmett&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/ozermehmett/)
+<div width="100%" align="center">
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozermehmett&theme=transparent"/>
+</div>
 
 ---
 
@@ -29,5 +31,6 @@
 ![snake](https://github.com/ozermehmett/ozermehmett/assets/115498182/487a5089-d6de-48a8-bec1-a350cb03f399)
 --- -->
 
-[![](https://visitcount.itsvg.in/api?id=ozermehmett&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ozermehmett&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
