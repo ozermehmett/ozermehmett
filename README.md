@@ -30,6 +30,7 @@
 ---
 ![snake](https://github.com/ozermehmett/ozermehmett/assets/115498182/487a5089-d6de-48a8-bec1-a350cb03f399)
 --- -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ozermehmett&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=ozermehmett&icon=0&color=0)](https://visitcount.itsvg.in)
 
