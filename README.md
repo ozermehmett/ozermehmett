@@ -1,5 +1,5 @@
 # 💫 About Me
-🌱 I’m currently learning python programing<br>💬 Ask me about Python programming, mathematical concepts, or any questions related to computer science.<br>⚡ Fun fact: Did you know that Python was named after the British comedy group Monty Python?<br>📫 How to reach me ozermehmet911@gmail.com or ozermehmet1@proton.me
+🌱 I’m currently learning Machine Learning and Deep Learning<br>💬 Ask me about Python programming, mathematical concepts, or any questions related to computer science.<br>📫 How to reach me ozermehmet911@gmail.com
 
 
 
